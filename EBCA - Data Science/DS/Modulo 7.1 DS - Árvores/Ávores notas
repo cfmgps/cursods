@@ -1,0 +1,39 @@
+O aprendizado supervisionado é uma 
+abordagem de aprendizado de máquina 
+definida pelo uso de conjuntos de dados 
+com rótulos (target). Esses conjuntos de 
+dados são projetados para treinar 
+algoritmos para classificar dados ou 
+prever resultados.
+
+O aprendizado não supervisionado 
+usa algoritmos de aprendizado de 
+máquina para analisar e agrupar 
+conjuntos de dados não rotulados. Esses 
+algoritmos descobrem padrões ocultos 
+nos dados.
+
+
+Dentro dos supervisionados nós temos duas grandes classes:
+
+Os problemas de classificação são 
+usados quando a variável resposta 
+(target) é discreto, categorizado, com 
+classes, exemplos: Classificar um email 
+em spam ou não spam, Classificar um 
+cliente em bom ou mau pagador, 
+Classificar a qualidade de uma peça 
+entre baixa, média, alta etc.
+
+Algoritmos de regressão são usados 
+quando a variável resposta (target) é 
+um valor numérico contínuo, exemplos: 
+Previsão de vendas, previsão de receita, 
+previsão de temperatura, preço do 
+aluguel etc.
+
+
+Dai podemos ter árvore de decisão tanto para classificação quanto para regressão.
+
+
+https://scikit-learn.org/stable/modules/tree.html
